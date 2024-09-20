@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devojeet Diwakar</h1>
-<h3 align="center">Third-Year CSE Student | Python, C/C++, Java | Certified in Prompt Engineering | Blockchain & IoT Enthusiast | Competitive Programmer from India</h3>
+<h3 align="center">Third-Year CSE Student | Python, C/C++, Java, JavaScript | Certified in Prompt Engineering | Blockchain & IoT Enthusiast | Competitive Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devojeetdiwakar&label=Profile%20views&color=0e75b6&style=flat" alt="devojeetdiwakar" /> </p>
 
