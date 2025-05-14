@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **devojeetdiwakar@gmail.com**
+- 📫 How to reach me **devojeetdiwakar@gmail.com** **devojeet.diwakar@s.amity.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
