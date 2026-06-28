@@ -70,8 +70,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 Hi, I'm **Devojeet Diwakar** 👋
 
 I'm a **Data Analyst**, **Business Analyst**, **Data Scientist**, and **AI & Machine Learning Engineer** passionate about transforming raw data into actionable insights and building intelligent, data-driven solutions.
