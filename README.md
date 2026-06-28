@@ -23,7 +23,7 @@
 </p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1500&color=38BDF8&center=true&vCenter=true&width=900&lines=TRANSFORMING+DATA+INTO+DECISIONS.;POWERING+INTELLIGENCE+WITH+AI+%26+ML.;Turning+Data+into+Insights+%F0%9F%93%8A"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1500&color=38BDF8&center=true&vCenter=true&width=950&lines=Transforming+Data+Into+Business+Decisions;Powering+Intelligence+With+AI+%26+Machine+Learning;Turning+Data+Into+Actionable+Insights"
     alt="Tagline Typing SVG"
   />
 </p>
@@ -48,18 +48,16 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL / CONTACT LINKS                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<h3 align="center">
+🚀 Open to Full-Time Opportunities
+</h3>
+
 <p align="center">
+Data Analyst • Business Analyst • Data Scientist • AI & Machine Learning
+</p>
 
-  <strong>
-
-    <span style="font-size:22px; color:#38BDF8;">
-
-      🚀 Open to Full-Time Opportunities | Data Analyst • Business Analyst • Data Scientist • AI & ML
-
-    </span>
-
-  </strong>
-
+<p align="center">
+Let's Connect! 🤝
 </p>
 <p>
   <a href="mailto:devojeetdiwakar@gmail.com">
