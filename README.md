@@ -4,7 +4,7 @@
 <!--                    BANNER IMAGE AT TOP                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/devojeetdiwakar/devojeetdiwakar/main/LK_Banner__1_.png" width="100%" alt="Devojeet Diwakar Banner"/>
+<img src="devojeet_diwakar.png" width="100%" alt="Devojeet Diwakar Banner"/>
 
 <!-- 💡 NOTE: Upload your banner image (LK_Banner__1_.png) to your  -->
 <!--    GitHub profile repo root so the above link works correctly.  -->
