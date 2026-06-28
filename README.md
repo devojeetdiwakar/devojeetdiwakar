@@ -19,16 +19,20 @@
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2300&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Devojeet+Diwakar;Data+Analyst;Business+Analyst;Data+Scientist;AI+%26+Machine+Learning+Engineer;Ex+Research+%26+AI%2FML+Intern+%40+DRDO%2C+RCMA"
     alt="Typing SVG"
-  />
-</p>
-<p align="center">
+  /><br/>
+
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1500&color=38BDF8&center=true&vCenter=true&width=950&lines=Transforming+Data+Into+Business+Decisions;Powering+Intelligence+With+AI+%26+Machine+Learning;Turning+Data+Into+Actionable+Insights"
     alt="Tagline Typing SVG"
-  />
-</p>
-<p align="center">
-<b>🐍 Python</b> • <b>🗄 SQL</b> • <b>📊 Power BI</b> • <b>📈 Advanced Excel</b> • <b>🤖 Machine Learning</b> • <b>🧠 Deep Learning</b> • <b>🎨 Figma</b>
+  /><br/><br/>
+
+  <b>🐍 Python</b> •
+  <b>🗄 SQL</b> •
+  <b>📊 Power BI</b> •
+  <b>📈 Advanced Excel</b> •
+  <b>🤖 Machine Learning</b> •
+  <b>🧠 Deep Learning</b> •
+  <b>🎨 Figma</b>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -48,16 +52,18 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL / CONTACT LINKS                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h3 align="center">
-🚀 Open to Full-Time Opportunities
-</h3>
+<h3 align="center">🚀 Open to Full-Time Opportunities</h3>
 
 <p align="center">
-Data Analyst • Business Analyst • Data Scientist • AI & Machine Learning
+<strong>Data Analyst</strong> •
+<strong>Business Analyst</strong> •
+<strong>Data Scientist</strong> •
+<strong>AI & Machine Learning</strong>
 </p>
 
 <p align="center">
-Let's Connect! 🤝
+Always Open to Networking & Collaboration
+<strong>Let's Connect! 🤝</strong>
 </p>
 <p>
   <a href="mailto:devojeetdiwakar@gmail.com">
