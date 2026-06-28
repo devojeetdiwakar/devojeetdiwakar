@@ -19,20 +19,16 @@
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2300&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Devojeet+Diwakar;Data+Analyst;Business+Analyst;Data+Scientist;AI+%26+Machine+Learning+Engineer;Ex+Research+%26+AI%2FML+Intern+%40+DRDO%2C+RCMA"
     alt="Typing SVG"
-  /><br/>
-
+  />
+</p>
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1500&color=38BDF8&center=true&vCenter=true&width=950&lines=Transforming+Data+Into+Business+Decisions;Powering+Intelligence+With+AI+%26+Machine+Learning;Turning+Data+Into+Actionable+Insights"
     alt="Tagline Typing SVG"
-  /><br/><br/>
-
-  <b>🐍 Python</b> •
-  <b>🗄 SQL</b> •
-  <b>📊 Power BI</b> •
-  <b>📈 Advanced Excel</b> •
-  <b>🤖 Machine Learning</b> •
-  <b>🧠 Deep Learning</b> •
-  <b>🎨 Figma</b>
+  />
+</p>
+<p align="center">
+<b>🐍 Python</b> • <b>🗄 SQL</b> • <b>📊 Power BI</b> • <b>📈 Advanced Excel</b> • <b>🤖 Machine Learning</b> • <b>🧠 Deep Learning</b> • <b>🎨 Figma</b>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -62,10 +58,12 @@
 </p>
 
 <p align="center">
-Always Open to Networking & Collaboration
-<strong>Let's Connect! 🤝</strong>
+Always Open to Networking & Collaboration 
 </p>
 <p>
+  <strong>Let's Connect! 🤝</strong>
+</p>
+<p align="center">
   <a href="mailto:devojeetdiwakar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
