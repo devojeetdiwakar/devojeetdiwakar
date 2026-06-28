@@ -17,17 +17,23 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2300&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Devojeet+Diwakar;Data+Analyst;Business+Analyst;Data+Scientist;AI+%26+Machine+Learning+Engineer"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2300&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Devojeet+Diwakar;Data+Analyst;Business+Analyst;Data+Scientist;AI+%26+Machine+Learning+Engineer;Ex+Research+%26+AI%2FML+Intern+%40+DRDO%2C+RCMA"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="55"/></a>
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="55"/></a>
+<a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="55"/></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" height="55"/></a>
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="55"/></a>
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="55"/></a>
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" height="55"/></a>
+</p>
+
+<p align="center">
+<b>Python</b> • <b>SQL</b> • <b>Power BI</b> • <b>Advanced Excel</b> • <b>Machine Learning</b> • <b>Deep Learning</b> • <b>Figma</b>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -47,7 +53,12 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL / CONTACT LINKS                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2300&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Open+to+Opportunities!"
+    alt="Typing SVG"
+  />
+</p>
 <p>
   <a href="mailto:devojeetdiwakar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
