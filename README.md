@@ -15,7 +15,9 @@
 <!--                    ANIMATED TYPING BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=960&lines=Hey+there!+I'm+Devojeet+Diwakar+%F0%9F%91%8B;he%2Fhim;Data+Scientist+%7C+AI%2FML+Engineer;Ex+Research+%26+AI%2FML+Intern+%40+DRDO%2C+RCMA;Python+Developer+%7C+Data+Analytics;Turning+Data+into+Insights+%F0%9F%93%8A;Open+to+Opportunities!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=960&lines=Devojeet+Diwakar;AI+%2F+ML+Engineer;Data+Scientist;Data+Analyst;Business+Analyst" alt="Typing SVG"/>
+
+
 
 <br/>
 
